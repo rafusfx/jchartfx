@@ -1,6 +1,6 @@
 {
   "name": "jChartFX",
-  "private": true,
+  "private": false,
   "version": "7.4.5649",
   "homepage": "https://github.com/rafusfx/jchartfx",
   "authors": [
