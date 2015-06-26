@@ -1,0 +1,32 @@
+{
+  "name": "jChartFX",
+  "private": true,
+  "version": "7.4.5649",
+  "homepage": "https://github.com/rafusfx/jchartfx",
+  "authors": [
+    "Rafael Rincon <rafael.natal@ctis.com.br>"
+  ],
+  "description": "JsCharts Support for project",
+  "main": [
+    "js/jchartfx.system.js",
+    "js/jchartFX.coreVector.js",
+    "js/jchartfx.advanced.js",
+    "js/jchartfx.animation.js",
+    "js/jchartfx.annotation.js",
+    "js/jchartfx.coreVector3d.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "graficos"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "repository": {
+  "type": "https",
+  "url": "https://github.com/rafusfx/jchartfx.git"
+  }
+}
